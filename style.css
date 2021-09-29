@@ -25,3 +25,16 @@ body {
   margin-right: auto;
   width: 15%;
 }
+.img3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.description,
+.main-header {
+  background-color: cadetblue;
+  text-align: center;
+  margin-left: 600px;
+  margin-right: 600px;
+}
