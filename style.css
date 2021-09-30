@@ -1,37 +1,47 @@
 body {
-  background-color: rgb(167, 157, 157);
-  color: rgb(49, 49, 66);
-  font-size: 25px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-.description {
-  color: aquamarine;
+  background-color: #b5f8fe;
+  font-family: Oswald;
 }
 .main-header {
+  font-size: 75;
   text-align: center;
+  border: 9px solid black;
+  margin-left: 200px;
+  margin-right: 200px;
 }
-.sub-header {
+.subheaders {
+  background-color: #fbf601;
+  font-size: 40;
   text-align: center;
+  border: 9px solid black;
+  margin-left: 400px;
+  margin-right: 400px;
 }
-.img {
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+.pictures {
+  width: 450px;
+  border: 9px solid black;
 }
-.img2 {
-  margin-left: auto;
-  margin-right: auto;
-  width: 15%;
+
+.descriptions {
+  font-size: 50;
 }
-.img3 {
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-}
-.description,
-.main-header {
-  background-color: cadetblue;
+
+.post-2 {
+  background-color: tomato;
+  font-size: 40;
   text-align: center;
-  margin-left: 600px;
-  margin-right: 600px;
+  border: 9px solid black;
+  margin-top: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.post-3 {
+  background-color: salmon;
+  font-size: 40;
+  text-align: center;
+  border: 9px solid black;
+  margin-top: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
